@@ -7,3 +7,6 @@ Either:
 -Or press Enter, which will run them all in descending order of density, stopping if it finds a solution.
 
 Then wait.
+
+Results compiled so far can be found here:
+https://docs.google.com/spreadsheets/d/19G13eHl3GCC57GA9cRDqrC_yvS2Hf4jsGK6H8kQZAso/edit?gid=0#gid=0
